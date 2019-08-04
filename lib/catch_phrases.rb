@@ -8,7 +8,7 @@ def toadstool
 puts $status
 end
 
-Def link
+def link
 puts "It's Dangerous To GO Alone! Take This."
 end
 
